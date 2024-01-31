@@ -1,0 +1,162 @@
+* {
+    margin: auto;
+    PADDING: unset;
+}
+
+body {
+    background: #361063;
+    font-family: Arial;
+}
+
+.Contenedor {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #361063;
+    margin-top: 5%;
+    margin-left: auto;
+    
+}
+
+.main {
+    width: 48%;
+    height: 25vh;
+    background: #fab929;
+    padding: 20px;
+    float: left;
+    box-sizing: border-box;
+}
+
+aside {
+    width: 48%;
+    height: 25vh;
+    padding: 0%;
+    box-sizing: border-box;
+    background: #fab929;
+    float: right;
+    margin-right: 0%;
+    color: white;
+    text-align: justify;
+    font-family: Arial; 
+}
+
+.TDescripcion {
+    font-family: Arial;
+    color: #361063;
+    border: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
+
+}
+
+.ContenidoFoto {
+    color: white;
+    font-family: Arial;
+    font-size: 100%;
+    margin-left: 40%;
+    margin-top: 12%;
+}
+
+.Foto {
+    margin-top: 0.5%;
+}
+
+.Foto img{
+    
+    -webkit-transforn: .3s ease-in-out;
+    transform: .3s ease-in-out;
+}
+
+img:hover {
+    content: url(https://i.pinimg.com/originals/1e/eb/5c/1eeb5c12f60575b53764dd9bda5ddf74.jpg);
+}
+
+
+
+footer {
+    clear: both;
+    float: left;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: px;
+    color: black;
+    background: #fab929;
+}
+
+.CuadroUno {
+    width: 30%;
+    height: 50%;
+    background-color: #361063;
+    margin-top: 5%;
+    margin-left: 20px;
+    margin-block: 2%;
+}
+
+.Titulolibros {
+    font-family: Arial;
+    color: #361063;
+    border: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
+}
+
+.Libros {
+    font-family: Arial;
+    color: white;
+    margin-left: 30px;
+}
+
+.CuadroDos {
+    width: 30%;
+    height: 80%;
+    background-color: #361063;
+    margin-top: 5%;
+    margin-left: 28px;
+    margin-block: 2%
+}
+
+.Titulohobbies {
+    font-family: Arial;
+    color: #361063;
+    border: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;;
+}
+
+.Hobbies {
+    font-family: Arial;
+    color: white;
+    margin-left: 30px;
+}
+
+.CuadroTres {
+    width: 30%;
+    height: 50%;
+    background-color: #361063;
+    margin-top: 5%;
+    margin-right: 20px;
+    margin-block: 2%
+}
+
+.Titulositios {
+    font-family: Arial;
+    color: #361063;
+    border: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
+}
+
+.SitiosWeb {
+    font-family: Arial;
+    color: white;
+    margin-left: 1px;
+}
+
+.tablas {
+    border-color: white;
+    width: 100%;
+    text-align: justify;
+    br
+}
